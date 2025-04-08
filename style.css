@@ -1,0 +1,128 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+body {
+  background: linear-gradient(
+    180deg,
+    rgba(227, 255, 248, 0) 82.08%,
+    rgba(227, 255, 248, 0.38) 100%
+  );
+
+  min-height: 100vh;
+}
+
+.page {
+  width: 1040px;
+  margin: 0px auto;
+  padding-top: 64px;
+}
+
+nav {
+  font-family: "Mulish", sans-serif;
+  color: #000;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+
+nav ul {
+  display: flex;
+  gap: 48px;
+}
+
+/* Check list link style */
+nav ul li a {
+}
+
+/* Make text bold on hover */
+nav ul li a:hover {
+}
+
+main {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 88px;
+}
+
+.text h1 {
+  font-family: "Mulish", sans-serif;
+}
+
+
+.text h1 span {
+}
+
+
+.text p {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+.text button {
+  font-family: "Open Sans", sans-serif;
+  display: flex;
+  gap: 8px;
+}
+
+
+.text button:hover {
+}
+
+
+footer {
+  font-family: "Open Sans", sans-serif;
+}
+
+
+footer a {
+  color: #000;
+  text-decoration: none;
+  font-weight: 700;
+}
+
+#balls {
+  position: fixed;
+  bottom: 0px;
+  right: 0px;
+}
+
+.button-wa {
+  background: #13491e;
+  width: 150px;
+  color: #fff;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  border: none;
+  padding: 10px 15px;
+
+}
+
+.nav {
+  list-style: none;
+}
+
+.nav li a {
+  color: #242424;
+  text-decoration: none;
+}
+
+.text {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+
+.text h1 {
+  font-size: 3rem;
+  font-weight: 300;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.text span {
+  color: #699d69;
+}
