@@ -1,7 +1,16 @@
-Di dalam respitory ini terdapat contoh pembuatan web sederhana Tugas 3
+# 💻 Tugas 3: HTML & CSS
 
-Mata kuliah Web Client Development
+Repositori ini berisi hasil pengerjaan **Tugas 3** dari mata kuliah Web Client Development, dengan fokus pada implementasi Dasar dalam struktur HTML dan styling menggunakan CSS.
 
-di dalam nya terdapat HTML sederhana
-dan CSS Sederhana 
-serta File sisipan Gambar.
+## 📚 Deskripsi Tugas
+
+Tugas ini bertujuan untuk mengasah pemahaman dasar mengenai HTML dan CSS:
+
+- Struktur halaman HTML
+- Pemanfaatan tag-tag HTML
+- Styling halaman menggunakan CSS 
+- Penerapan layout sederhana 
+
+---
+
+
